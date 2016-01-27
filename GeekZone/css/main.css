@@ -50,3 +50,16 @@ aside{
 	float:right;
 	
 }
+footer{
+	height:40px;
+	line-height:1px;
+	vertical-align:bottom;
+	width:200%;
+	position:absolute;
+	bottom:0px;
+	background:white;
+	color:grey;
+}
+hr{
+	border:0px solid white;
+}
